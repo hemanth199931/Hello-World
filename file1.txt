@@ -1,0 +1,11 @@
+class Addition
+{
+	public static void main(String args[])
+	{
+		int x=65,y=71,z;
+		z=x+y;
+		System.out.println("value of x"+x);
+		System.out.println("value of y"+y);
+		System.out.println("sum"+z);
+	}
+}
